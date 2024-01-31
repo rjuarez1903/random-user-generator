@@ -28,7 +28,7 @@ the repository and import it into Android Studio.
 git clone https://github.com/yourusername/random-user-generator-app
 ```
 
-## Ensure you have an active internet connection for fetching data from the Random User Generator API.
+Ensure you have an active internet connection for fetching data from the Random User Generator API.
 
 ## Dependencies
 
