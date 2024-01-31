@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit Practice</string>
+    <string name="app_name_title">Random User Generator</string>
+    <string name="get_new_user_btn">Get New User</string>
+</resources>
